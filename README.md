@@ -10,7 +10,7 @@ Implementation DevOps as a Service (DaaS) on company
 
 ![3 ITIL support line](3ITIL_supportline.png)
 
-Более подробно процесс описан в статье на [habr|https://habr.com/ru/companies/chislitellab/articles/961234/]
+Более подробно процесс описан в статье на habr - https://habr.com/p/961234/
 
 Copyright (c) Krylov Aleksandr.
 
