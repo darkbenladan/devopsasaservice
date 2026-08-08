@@ -1,17 +1,3 @@
-# DevOps as a Service (DaaS)
-Implementation DevOps as a Service (DaaS) on company
-
-В данном репозитории описан пример пути процесса внедрения DevOps as a Service в компанию с использованием метода управляемого сопротивления.
-Внедрение разделено на этапы:
-1. Презентация
-2. Управляемое сопротивление
-3. Внедрение
-4. Обратная связь
-
-![Stage Implementation DevOps as a Service (DaaS) on company](Stage_DaaS.jpg)
-
-Более подробно процесс описан в статье на habr - https://habr.com/p/961234/
-
 Copyright (c) Krylov Aleksandr.
 
 License autor by Krylov Aleksandr type cc.
